@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:torrent="http://xmlns.ezrss.it/0.1/dtd/" version="2.0"><channel><title>RSS for tpb</title><link>localhost</link><description>RSS for tpb</description><atom:link href="localhost" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 18 Dec 2017 14:53:47 +0000</lastBuildDate></channel></rss>
