@@ -1,0 +1,5 @@
+[Unit]
+Description=Restarts the modem if internet connection drops.
+
+[Service]
+ExecStart='mosh -ssh="ssh -N -L 5321:127.0.0.1:37001" unak'
